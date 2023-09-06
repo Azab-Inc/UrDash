@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "UrDash",
+    "description": "Fully customisable custom dashboard for chrome based browsers.",
+    "version": "1.0",
+    "action": {
+      "default_popup": "index.html"
+    },
+    "permissions": [
+      "storage"
+    ],
+
+    "icons": {
+      "16": "Logo.png",
+      "48": "Logo.png",
+      "128": "Logo.png"
+    }
+  }
